@@ -1,6 +1,6 @@
 # Funções em TypeScript
 
-Aqui estão duas funções simples escritas em TypeScript para calcular a média de dois números e verificar se uma nota é aprovativa.
+Aqui estão duas funções simples escritas em TypeScript para calcular a média de dois números e verificar se uma nota é aprovativa. Esta foi a primeira atividade realizada com TypeScript.
 
 ```typescript
 // Crie uma função que receba 2 números e retorne a média.
@@ -28,4 +28,5 @@ function aprovadoOuNao(nota: number): void {
 
 aprovadoOuNao(5);
 
-Essas funções são simples e mostram alguns conceitos básicos de TypeScript, como tipagem de variáveis e definição de tipos de retorno. A primeira função calcula a média de dois números, e a segunda função verifica se uma nota é menor que 6, exibindo "Reprovado" ou "Aprovado" no console, conforme necessário.
+Essas funções são simples e mostram alguns conceitos básicos de TypeScript, como tipagem de variáveis e definição de tipos de retorno.
+A primeira função calcula a média de dois números, e a segunda função verifica se uma nota é menor que 6, exibindo "Reprovado" ou "Aprovado" no console, conforme necessário.
